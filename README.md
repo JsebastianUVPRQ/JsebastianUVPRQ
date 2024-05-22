@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JsebastianUVPRQ
-- 👀 I’m interested in data analysis, artificial intelligence and STEM
-- 🌱 I’m currently learning Data-focused Cloud infrastructure
+- 👋 Hi, I’m @JsebastianDS, a Data Scientist focused on machine learning models.
+- 👀 I’m interested in data analysis, artificial intelligence and STEM.
+- 🌱 I’m currently learning Data-focused Cloud infrastructure.
 - 📫 Contact me: penaloza.juan@correounivalle.edu.co 

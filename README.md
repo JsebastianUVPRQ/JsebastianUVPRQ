@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @JsebastianDS, a Data Scientist focused on machine learning models.
-- 👀 I’m interested in data analysis, artificial intelligence and STEM.
-- 🌱 I’m currently learning Data-focused Cloud infrastructure.
-- 📫 Contact me: penaloza.juan@correounivalle.edu.co 
+- 👋 Hi, I’m @JsebastianDS, a Data Scientist with a background
+  in physics. I’m focused on Business Intelligence solutions.
+- 👀 I’m interested in data analytics, artificial intelligence, and STEM.
+- 🌱 I’m currently learning Data solutions on Cloud infrastructure.
+- 📫 Contact me: jsebastiands@proton.me
